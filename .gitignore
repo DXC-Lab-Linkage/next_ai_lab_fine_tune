@@ -1,3 +1,6 @@
+# 大きなモデルファイルは無視
+*.safetensors
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
