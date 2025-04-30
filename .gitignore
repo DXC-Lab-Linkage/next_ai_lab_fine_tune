@@ -1,5 +1,6 @@
 # 大きなモデルファイルは無視
 *.safetensors
+*.gguf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
